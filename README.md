@@ -42,13 +42,13 @@ main/                              ← Tarea 1: Base de datos inicial
     ├── lgf_001.json … lgf_005.json  ← documentos individuales
     └── [demás colecciones y documentos]
 
-actualizaciones/                   ← Tarea 2: Inserción de canciones
-├── disquera_tarea2.csv
-└── bson_tarea2/
+← Tarea 2: Inserción de canciones
+│ disquera_tarea2.csv
+│ bson_tarea2/
 
-eliminaciones/                     ← Tarea 3: Eliminaciones
-├── disquera_tarea3.csv
-└── bson_tarea3/
+ ← Tarea 3: Eliminaciones
+│ disquera_tarea3.csv
+│ bson_tarea3/
 ```
 
 ---
