@@ -1,0 +1,11 @@
+{
+  "_id": "mj_007",
+  "titulo": "Baby Be Mine",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Funk",
+  "duracion_seg": 260,
+  "numero_pista": 7,
+  "popularidad": 65
+}

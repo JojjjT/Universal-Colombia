@@ -1,0 +1,11 @@
+{
+  "_id": "iq_001",
+  "titulo": "Quiero Bailar",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_diva.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 212,
+  "numero_pista": 1,
+  "popularidad": 97
+}

@@ -1,0 +1,11 @@
+{
+  "_id": "lgf_002",
+  "titulo": "LoveGame",
+  "anio_salida": 2008,
+  "autor": "Lady Gaga",
+  "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+  "genero": "Dance-pop",
+  "duracion_seg": 200,
+  "numero_pista": 2,
+  "popularidad": 88
+}

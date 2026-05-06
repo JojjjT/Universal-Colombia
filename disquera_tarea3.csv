@@ -1,0 +1,26 @@
+_id,titulo,anio_salida,autor,id_imagen_portada,genero,duracion_seg,numero_pista,popularidad,coleccion
+qn_001,Bohemian Rhapsody,1975,Queen,images/queen_a_night_at_the_opera.jpg,Progressive rock,354,1,100,queen_a_night_at_the_opera
+qn_002,Love of My Life,1975,Queen,images/queen_a_night_at_the_opera.jpg,Ballad,211,2,92,queen_a_night_at_the_opera
+qn_003,You're My Best Friend,1975,Queen,images/queen_a_night_at_the_opera.jpg,Pop rock,170,3,88,queen_a_night_at_the_opera
+qn_004,'39,1975,Queen,images/queen_a_night_at_the_opera.jpg,Folk rock,211,4,78,queen_a_night_at_the_opera
+qn_005,The Prophet's Song,1975,Queen,images/queen_a_night_at_the_opera.jpg,Progressive rock,512,5,75,queen_a_night_at_the_opera
+lgf_001,Just Dance,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Dance-pop,241,1,95,lady_gaga_the_fame
+lgf_002,LoveGame,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Dance-pop,200,2,88,lady_gaga_the_fame
+lgf_003,Poker Face,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Synth-pop,238,3,99,lady_gaga_the_fame
+lgf_004,Paparazzi,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Dance-pop,214,4,90,lady_gaga_the_fame
+lgf_005,Beautiful Dirty Rich,2008,Lady Gaga,images/lady_gaga_the_fame.jpg,Electropop,195,5,82,lady_gaga_the_fame
+bts_001,ON,2020,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,254,1,96,bts_map_of_the_soul_7
+bts_002,Black Swan,2020,BTS,images/bts_map_of_the_soul_7.jpg,Art pop,231,2,92,bts_map_of_the_soul_7
+bts_003,Boy With Luv,2019,BTS,images/bts_map_of_the_soul_7.jpg,K-Pop,229,3,98,bts_map_of_the_soul_7
+bts_004,Filter,2020,BTS,images/bts_map_of_the_soul_7.jpg,Latin pop,211,4,88,bts_map_of_the_soul_7
+bts_005,Ego,2020,BTS,images/bts_map_of_the_soul_7.jpg,Hip-Hop,203,5,85,bts_map_of_the_soul_7
+mj_001,Thriller,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Funk,358,1,100,michael_jackson_thriller
+mj_002,Billie Jean,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Post-disco,294,2,100,michael_jackson_thriller
+mj_003,Beat It,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Hard rock / Pop,258,3,99,michael_jackson_thriller
+mj_004,Wanna Be Startin' Somethin',1982,Michael Jackson,images/michael_jackson_thriller.jpg,Funk,363,4,90,michael_jackson_thriller
+mj_005,Human Nature,1982,Michael Jackson,images/michael_jackson_thriller.jpg,Soft rock,245,5,88,michael_jackson_thriller
+erc_001,El Regreso del Cóndor en el Mundo,1992,Diomedes Díaz,images/diomedes_el_regreso_del_condor.jpg,Vallenato,268,1,97,diomedes_diaz_el_regreso_del_condor
+erc_002,Eso No Es Na,1992,Diomedes Díaz,images/diomedes_el_regreso_del_condor.jpg,Vallenato,252,2,85,diomedes_diaz_el_regreso_del_condor
+erc_003,No Más Cadenas,1992,Diomedes Díaz,images/diomedes_el_regreso_del_condor.jpg,Vallenato,240,3,80,diomedes_diaz_el_regreso_del_condor
+erc_004,El Regreso del Cóndor,1992,Diomedes Díaz,images/diomedes_el_regreso_del_condor.jpg,Vallenato,230,4,78,diomedes_diaz_el_regreso_del_condor
+erc_005,La Vida,1992,Diomedes Díaz,images/diomedes_el_regreso_del_condor.jpg,Vallenato,221,5,75,diomedes_diaz_el_regreso_del_condor

@@ -1,0 +1,11 @@
+{
+  "_id": "qn_001",
+  "titulo": "Bohemian Rhapsody",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Progressive rock",
+  "duracion_seg": 354,
+  "numero_pista": 1,
+  "popularidad": 100
+}

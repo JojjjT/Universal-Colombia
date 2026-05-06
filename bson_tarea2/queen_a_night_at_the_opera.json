@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "qn_001",
+    "titulo": "Bohemian Rhapsody",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Progressive rock",
+    "duracion_seg": 354,
+    "numero_pista": 1,
+    "popularidad": 100
+  },
+  {
+    "_id": "qn_002",
+    "titulo": "Love of My Life",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Ballad",
+    "duracion_seg": 211,
+    "numero_pista": 2,
+    "popularidad": 92
+  },
+  {
+    "_id": "qn_003",
+    "titulo": "You're My Best Friend",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Pop rock",
+    "duracion_seg": 170,
+    "numero_pista": 3,
+    "popularidad": 88
+  },
+  {
+    "_id": "qn_004",
+    "titulo": "'39",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Folk rock",
+    "duracion_seg": 211,
+    "numero_pista": 4,
+    "popularidad": 78
+  },
+  {
+    "_id": "qn_005",
+    "titulo": "The Prophet's Song",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Progressive rock",
+    "duracion_seg": 512,
+    "numero_pista": 5,
+    "popularidad": 75
+  },
+  {
+    "_id": "qn_006",
+    "titulo": "Seaside Rendezvous",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Vaudeville",
+    "duracion_seg": 130,
+    "numero_pista": 6,
+    "popularidad": 62
+  },
+  {
+    "_id": "qn_007",
+    "titulo": "I'm in Love with My Car",
+    "anio_salida": 1975,
+    "autor": "Queen",
+    "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+    "genero": "Hard rock",
+    "duracion_seg": 185,
+    "numero_pista": 7,
+    "popularidad": 60
+  }
+]

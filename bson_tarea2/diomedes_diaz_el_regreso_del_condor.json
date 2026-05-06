@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "erc_001",
+    "titulo": "El Regreso del Cóndor en el Mundo",
+    "anio_salida": 1992,
+    "autor": "Diomedes Díaz",
+    "id_imagen_portada": "images/diomedes_el_regreso_del_condor.jpg",
+    "genero": "Vallenato",
+    "duracion_seg": 268,
+    "numero_pista": 1,
+    "popularidad": 97
+  },
+  {
+    "_id": "erc_002",
+    "titulo": "Eso No Es Na",
+    "anio_salida": 1992,
+    "autor": "Diomedes Díaz",
+    "id_imagen_portada": "images/diomedes_el_regreso_del_condor.jpg",
+    "genero": "Vallenato",
+    "duracion_seg": 252,
+    "numero_pista": 2,
+    "popularidad": 85
+  },
+  {
+    "_id": "erc_003",
+    "titulo": "No Más Cadenas",
+    "anio_salida": 1992,
+    "autor": "Diomedes Díaz",
+    "id_imagen_portada": "images/diomedes_el_regreso_del_condor.jpg",
+    "genero": "Vallenato",
+    "duracion_seg": 240,
+    "numero_pista": 3,
+    "popularidad": 80
+  },
+  {
+    "_id": "erc_004",
+    "titulo": "El Regreso del Cóndor",
+    "anio_salida": 1992,
+    "autor": "Diomedes Díaz",
+    "id_imagen_portada": "images/diomedes_el_regreso_del_condor.jpg",
+    "genero": "Vallenato",
+    "duracion_seg": 230,
+    "numero_pista": 4,
+    "popularidad": 78
+  },
+  {
+    "_id": "erc_005",
+    "titulo": "La Vida",
+    "anio_salida": 1992,
+    "autor": "Diomedes Díaz",
+    "id_imagen_portada": "images/diomedes_el_regreso_del_condor.jpg",
+    "genero": "Vallenato",
+    "duracion_seg": 221,
+    "numero_pista": 5,
+    "popularidad": 75
+  },
+  {
+    "_id": "erc_006",
+    "titulo": "La Falla Fue Tuya",
+    "anio_salida": 1992,
+    "autor": "Diomedes Díaz",
+    "id_imagen_portada": "images/diomedes_el_regreso_del_condor.jpg",
+    "genero": "Vallenato",
+    "duracion_seg": 235,
+    "numero_pista": 6,
+    "popularidad": 60
+  },
+  {
+    "_id": "erc_007",
+    "titulo": "El Desquite",
+    "anio_salida": 1992,
+    "autor": "Diomedes Díaz",
+    "id_imagen_portada": "images/diomedes_el_regreso_del_condor.jpg",
+    "genero": "Vallenato",
+    "duracion_seg": 218,
+    "numero_pista": 7,
+    "popularidad": 58
+  }
+]

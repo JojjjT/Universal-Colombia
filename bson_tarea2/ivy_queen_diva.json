@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "iq_001",
+    "titulo": "Quiero Bailar",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_diva.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 212,
+    "numero_pista": 1,
+    "popularidad": 97
+  },
+  {
+    "_id": "iq_002",
+    "titulo": "Dime",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_diva.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 198,
+    "numero_pista": 2,
+    "popularidad": 85
+  },
+  {
+    "_id": "iq_003",
+    "titulo": "Cuentale",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_diva.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 220,
+    "numero_pista": 3,
+    "popularidad": 82
+  },
+  {
+    "_id": "iq_004",
+    "titulo": "La Mala",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_diva.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 205,
+    "numero_pista": 4,
+    "popularidad": 88
+  },
+  {
+    "_id": "iq_005",
+    "titulo": "Así Son",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_diva.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 193,
+    "numero_pista": 5,
+    "popularidad": 79
+  },
+  {
+    "_id": "iq_006",
+    "titulo": "Feeling Good",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_diva.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 187,
+    "numero_pista": 6,
+    "popularidad": 63
+  },
+  {
+    "_id": "iq_007",
+    "titulo": "Tócame",
+    "anio_salida": 2003,
+    "autor": "Ivy Queen",
+    "id_imagen_portada": "images/ivy_queen_diva.jpg",
+    "genero": "Reggaeton",
+    "duracion_seg": 201,
+    "numero_pista": 7,
+    "popularidad": 60
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "_id": "mj_005",
+  "titulo": "Human Nature",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Soft rock",
+  "duracion_seg": 245,
+  "numero_pista": 5,
+  "popularidad": 88
+}

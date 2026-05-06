@@ -1,0 +1,11 @@
+{
+  "_id": "qn_005",
+  "titulo": "The Prophet's Song",
+  "anio_salida": 1975,
+  "autor": "Queen",
+  "id_imagen_portada": "images/queen_a_night_at_the_opera.jpg",
+  "genero": "Progressive rock",
+  "duracion_seg": 512,
+  "numero_pista": 5,
+  "popularidad": 75
+}
