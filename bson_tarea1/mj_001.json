@@ -1,0 +1,11 @@
+{
+  "_id": "mj_001",
+  "titulo": "Thriller",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Funk",
+  "duracion_seg": 358,
+  "numero_pista": 1,
+  "popularidad": 100
+}

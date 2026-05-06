@@ -1,0 +1,11 @@
+{
+  "_id": "mj_003",
+  "titulo": "Beat It",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Hard rock / Pop",
+  "duracion_seg": 258,
+  "numero_pista": 3,
+  "popularidad": 99
+}

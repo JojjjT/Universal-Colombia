@@ -1,0 +1,11 @@
+{
+  "_id": "mj_002",
+  "titulo": "Billie Jean",
+  "anio_salida": 1982,
+  "autor": "Michael Jackson",
+  "id_imagen_portada": "images/michael_jackson_thriller.jpg",
+  "genero": "Post-disco",
+  "duracion_seg": 294,
+  "numero_pista": 2,
+  "popularidad": 100
+}

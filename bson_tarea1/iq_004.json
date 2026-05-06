@@ -1,0 +1,11 @@
+{
+  "_id": "iq_004",
+  "titulo": "La Mala",
+  "anio_salida": 2003,
+  "autor": "Ivy Queen",
+  "id_imagen_portada": "images/ivy_queen_diva.jpg",
+  "genero": "Reggaeton",
+  "duracion_seg": 205,
+  "numero_pista": 4,
+  "popularidad": 88
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "_id": "lgf_001",
+    "titulo": "Just Dance",
+    "anio_salida": 2008,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+    "genero": "Dance-pop",
+    "duracion_seg": 241,
+    "numero_pista": 1,
+    "popularidad": 95
+  },
+  {
+    "_id": "lgf_002",
+    "titulo": "LoveGame",
+    "anio_salida": 2008,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+    "genero": "Dance-pop",
+    "duracion_seg": 200,
+    "numero_pista": 2,
+    "popularidad": 88
+  },
+  {
+    "_id": "lgf_003",
+    "titulo": "Poker Face",
+    "anio_salida": 2008,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+    "genero": "Synth-pop",
+    "duracion_seg": 238,
+    "numero_pista": 3,
+    "popularidad": 99
+  },
+  {
+    "_id": "lgf_004",
+    "titulo": "Paparazzi",
+    "anio_salida": 2008,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+    "genero": "Dance-pop",
+    "duracion_seg": 214,
+    "numero_pista": 4,
+    "popularidad": 90
+  },
+  {
+    "_id": "lgf_005",
+    "titulo": "Beautiful Dirty Rich",
+    "anio_salida": 2008,
+    "autor": "Lady Gaga",
+    "id_imagen_portada": "images/lady_gaga_the_fame.jpg",
+    "genero": "Electropop",
+    "duracion_seg": 195,
+    "numero_pista": 5,
+    "popularidad": 82
+  }
+]

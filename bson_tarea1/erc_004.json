@@ -1,0 +1,11 @@
+{
+  "_id": "erc_004",
+  "titulo": "El Regreso del Cóndor",
+  "anio_salida": 1992,
+  "autor": "Diomedes Díaz",
+  "id_imagen_portada": "images/diomedes_el_regreso_del_condor.jpg",
+  "genero": "Vallenato",
+  "duracion_seg": 230,
+  "numero_pista": 4,
+  "popularidad": 78
+}
