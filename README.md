@@ -380,7 +380,9 @@ git checkout eliminaciones
 | Nombre | Rol |
 |--------|-----|
 | Joshua Trujillo | Desarrollo, documentación y gestión del repositorio |
-| [Integrante 2] | Modelado de datos y pruebas |
-| [Integrante 3] | Subida al repositorio y entrega |
+| Juan Amezquita | Modelado de datos y pruebas |
+| Valeria Villamil | Subida al repositorio y entrega |
+| Juan Navarrete | Revisión e Integridad de datos |
+
 
 *Universidad Externado de Colombia — Bases de Datos NoSQL*
