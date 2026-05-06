@@ -341,8 +341,8 @@ Se realizaron dos tipos de eliminación: la **colección completa de Ivy Queen**
 
 **1. Clonar el repositorio**
 ```bash
-git clone https://github.com/<tu-org>/nosql-disquera-universal.git
-cd nosql-disquera-universal
+git clone https://github.com/JojjjT/Universal-Colombia.git
+cd Universal-Colombia
 ```
 
 **2. Instalar dependencias**
